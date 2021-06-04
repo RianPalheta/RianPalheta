@@ -1,0 +1,5 @@
+- 👋 Olá, sou @RianPalheta;
+- 👀 Estou interessado em aprender;
+- 🌱 Atualmente estou aprendendo PHP, Node, React, React Native e Next;
+- 💞️ Estou procurando colaborar em qualque projeto que precise de um progamedor sem experiência;
+- 📫 Como me alcançar "rianpalheta_@hotmail.com";
